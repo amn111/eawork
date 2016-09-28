@@ -1,4 +1,11 @@
 <?php
 echo general;
-echo hello2
+
+echo hello2;
+
+;
+;
+;
+
+
 ?>
